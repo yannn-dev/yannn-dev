@@ -2,6 +2,7 @@
 
 - 🌱 Atualmente estudando HTML e Javascript
 - 😄 Pronouns: ele/dele
+- 🐱‍👤 Idade: 18y
 
 <div>
   <a href="https://github.com/yannn-dev">
