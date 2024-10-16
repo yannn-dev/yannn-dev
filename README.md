@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Kaique (a.k.a yann)
 
-- 🌱 Atualmente estudando HTML e C#
+- 🌱 Atualmente estudando C#
 - 😄 Pronouns: ele/dele
 - 🐱‍👤 Idade: 19y
 
