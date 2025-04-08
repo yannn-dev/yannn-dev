@@ -2,7 +2,7 @@
 
 - 🌱 Atualmente trabalhando como Júnior focado na linguagem Delphi!
 - 😄 Pronouns: ele/dele
-- 🐱‍👤 Idade: 19y
+- 🐱‍👤 Idade: 20y
 
 <div>
   <a href="https://github.com/yannn-dev">
