@@ -14,7 +14,7 @@
   <img align="center" alt="yann-postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg"/>
   <img align="center" alt="yann-oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"/>
   <img align="center" alt="yann-android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg"/>
-  <img align="center" alt="yann-delphi" height="30" width="40" src="https://www.svgrepo.com/show/508911/delphi01.svg"/>
+  <img align="center" alt="yann-delphi" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png"/>
   <img align="right" height="200" alt="yann-gif" src="https://media.discordapp.net/attachments/811289796836065300/1151914958431457310/ezgif.com-gif-maker.gif?ex=65e9e8e7&is=65d773e7&hm=d8c84d8ebb73269f594f080d210cd85ed82072eaa1603bac5589e973fa8c879f&">
 </div>
 
