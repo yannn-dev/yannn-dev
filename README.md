@@ -1,4 +1,4 @@
-### Olá! Eu sou o Kaique (a.k.a yann)
+### Olá! Eu sou o Kaique
 
 - 🌱 Atualmente trabalhando como estagiário na empresa Domtec Sistemas focado na linguagem Delphi (Pascal)!
 - 😄 Pronouns: ele/dele
