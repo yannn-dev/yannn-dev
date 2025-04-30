@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Kaique (a.k.a yann)
 
-- 🌱 Atualmente trabalhando como Júnior focado na linguagem Delphi!
+- 🌱 Atualmente trabalhando como estagiário na empresa Domtec Sistemas focado na linguagem Delphi (Pascal)!
 - 😄 Pronouns: ele/dele
 - 🐱‍👤 Idade: 20y
 
