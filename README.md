@@ -12,7 +12,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="yann-dbeaver" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg"/>
   <img align="center" alt="yann-postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg"/>
-  <img align="center" alt="yann-oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"/>
+  <img align="center" alt="yann-oracle" height="30" width="40" src="https://www.qidata.com.br/wp-content/uploads/2022/08/download-removebg-preview-1.png"/>
   <img align="center" alt="yann-android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg"/>
   <img align="center" alt="yann-delphi" height="30" width="40" src="https://static-00.iconduck.com/assets.00/delphi-icon-256x256-8k6mxujp.png"/>
   <img align="right" height="200" alt="yann-gif" src="https://media.discordapp.net/attachments/811289796836065300/1151914958431457310/ezgif.com-gif-maker.gif?ex=65e9e8e7&is=65d773e7&hm=d8c84d8ebb73269f594f080d210cd85ed82072eaa1603bac5589e973fa8c879f&">
